@@ -9,6 +9,6 @@ A chessboard configuration is <strong>VALID</strong> if no queen it is adjacent 
 <strong>On the command line, input: </strong>
 <code>./main integer1 integer2</code> where <code>integer1</code> is the M (size of the chessboard) and <code>integer2</code> is the Q (number of the queens).
 
-##Tools:
+## Tools:
 ### C Programming Language
   
